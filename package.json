@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A complete guide to PWAs. Building a simple Instagram clone.",
   "main": "index.js",
+  "dependencies":{
+	"react": "16.6.3",
+    "redux": "3.7.2"
+  }
   "scripts": {
     "start": "http-server -c-1"
   },
